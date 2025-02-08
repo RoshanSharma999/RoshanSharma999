@@ -1,6 +1,5 @@
 ## 👋 About Me
-I'm a **2nd-year BE student in Information Science Engineering at MSRIT**
-Currently expanding my skills in **full-stack web development with the MERN stack**
+I'm a **2nd-year BE student in Information Science Engineering at MSRIT**. Currently expanding my skills in **full-stack web development with the MERN stack**.
 
 ## 🛠 Tech Stack  
 <p align="left">
